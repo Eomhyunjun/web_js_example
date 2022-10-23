@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Playlist</title>
+    <script>
+        function addSongs() {
+            var song1 = document.getElementById("song1");
+            var song2 = document.getElementById("song2");
+            var song3 = document.getElementById("song3");
+
+            song1.innerHTML = "Blue Suede Strings, by Elvis Pagely";
+            song2.innerHTML = "Great Objects on Fire, by Jerry JSON Lewis";
+            song3.innerHTML = "I Code the Line, by Johnny JavaScript";
+        }
+        window.onload = addSongs;
+    </script>
+</head>
+<body>
+    <h1>My awesome playlist</h1>
+    <ul id="playlist">
+        <li id="song1"></li>
+        <li id="song2"></li>
+        <li id="song3"></li>
+        <li>2017250023 엄현준</li>
+    </ul>
+</body>
+</html>

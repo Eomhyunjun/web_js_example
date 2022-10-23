@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="book_catalog.css"?>
+<CATALOG>
+    <INTRO>2017250023 엄현준</INTRO>
+    <BOOK>
+        <TITLE>
+        이것은 작은 브랜드를 위한 책 - 우주에 흔적을 남겨라
+        </TITLE>
+        <AUTHOR>
+        이근상
+        </AUTHOR>
+        <PRICE>
+        14220원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        보랏빛 소가 온다 - 광고는 죽었다
+        </TITLE>
+        <AUTHOR>
+        세스고딘
+        </AUTHOR>
+        <PRICE>
+        10350원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        포지셔닝 (40주년 기념 스페셜 에디션) - 인류 불변의 마케팅 클래식
+        </TITLE>
+        <AUTHOR>
+        잭 트라우트
+        </AUTHOR>
+        <PRICE>
+        13500원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        [국내도서] 마케팅 불변의 법칙
+        </TITLE>
+        <AUTHOR>
+        잭 트라우트, 알 리스
+        </AUTHOR>
+        <PRICE>
+        11,520원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        마케팅 천재가 된 맥스 - 이야기로 배우는 세일즈와 마케팅의 모든 것, 15주년 기념 개정판
+        </TITLE>
+        <AUTHOR>
+        제프 콕스, 하워드 스티븐스
+        </AUTHOR>
+        <PRICE>
+        12,420원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        피터 드러커·매니지먼트
+        </TITLE>
+        <AUTHOR>
+        피터 드러커
+        </AUTHOR>
+        <PRICE>
+        16200원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        역량 - 원하는 것을 매 순간 성취해내는 힘
+        </TITLE>
+        <AUTHOR>
+        임춘성
+        </AUTHOR>
+        <PRICE>
+        16200원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        레버리지 (양장) - 자본주의 속에 숨겨진 부의 비밀
+        </TITLE>
+        <AUTHOR>
+        롭 무어
+        </AUTHOR>
+        <PRICE>
+        14400원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        더 해빙 (50만부 기념 리커버 에디션) - 부와 행운을 끌어당기는 힘
+        </TITLE>
+        <AUTHOR>
+        이서윤, 홍주연
+        </AUTHOR>
+        <PRICE>
+        14400원
+        </PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>
+        린 스타트업 - 지속적 혁신을 실현하는 창업의 과학
+        </TITLE>
+        <AUTHOR>
+        에릭 리스
+        </AUTHOR>
+        <PRICE>
+        16200원
+        </PRICE>
+    </BOOK>
+</CATALOG>

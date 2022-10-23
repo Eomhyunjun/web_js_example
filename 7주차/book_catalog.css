@@ -1,0 +1,25 @@
+CATALOG {
+    background-color: #ffffff;
+    width: 100%;
+}
+BOOK {
+    display: block;
+    border: 1px solid #000000;
+    margin: 30pt;
+}
+TITLE {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+AUTHOR {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+    margin-top: 10pt;
+}
+PRICE {
+    display: block;
+    color: #000000;
+    margin-top: 10pt;
+}
